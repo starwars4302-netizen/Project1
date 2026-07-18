@@ -1,0 +1,35 @@
+body{
+font-family: Arial, Helvetica, sans-serif;
+margin: 0;
+
+}
+
+header{
+padding: 5px 150px 5px;
+    background-color: #0011ff;
+}
+
+main{
+    width: 1440px;
+    margin: 0 auto;
+}
+
+
+.flex-container {
+    display: -webkit-flex;
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    
+}
+
+.flex-item {
+gap: 20px;
+padding: 20px;
+width: 100%;
+}
+foorter{
+padding: 20px 150px 20px;
+    background-color: #000545;
+    color: white;
+}
